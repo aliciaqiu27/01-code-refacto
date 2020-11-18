@@ -7,20 +7,20 @@ Web accessibility is essential to business sucess. A marketing agency wanted to 
 Semantic tags improves accessibility. In the old code, non-semantic tags such as <div> and <span> were widely used. These were replaced with semantic tags to allow the 
 
 ## Installation
+1) Open the GitBash software.
+2) Type "mkdir code" and click enter to make a directory name "code".
+3) Type "cd code" and "Enter" to get into the directory "code".
 
-1) Go to https://github.com/aliciaqiu27?tab=repositories.
-2) Go to the repository folder "01-code-refacto".
-Right click on the html file and open it with 
+4) Without closing GitBash, visit go to https://github.com/aliciaqiu27?tab=repositories on the Google Chrome/Firefox browser.
+5) Go to the repository folder "01-code-refacto". Look at this figure: 
+6) Click on "Code" green button and copy the HTTPS link. See this figure for demo: [installation demo](./assets/images/Installation_PartI.PNG).
+7) On GitBash, type "git clone", "space", and paste the HTTPs URL. Click enter.
+8) Type "git pull" and enter. 
+9) Type "code ." and enter. The file should open on Visual Studio Code (needs to be installed). 
 
 
 
 ## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
 
 Figure includes:
 [code refactor demo](./assets/images/search-engine-optimization.jpg)
@@ -34,9 +34,6 @@ Figure includes:
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
-
-If you followed tutorials, include links to those here as well.
-
 
 ## License
 
@@ -61,16 +58,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
----
-
-© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
