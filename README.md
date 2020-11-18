@@ -33,6 +33,7 @@ Figure includes:
 
 ## Credits
 
+https://www.bitdegree.org/learn/html5-semantic-tags
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
