@@ -2,7 +2,7 @@
 
 ## Refactoring code to improve accessibility
 
-Web accessibility is essential to business sucess. A marketing agency wanted to improve their website to make it more friendly to people with disabilities. In addition, implementing accessibility in a page helps improve the clarity of the page so that search engines can read and process the information more efficiently. This increases the chances of the business website to better positioned in search engines such as Google. The purpose of this code is to provide a great example of how to refactor a code to replace non-semantic with semantic HTML5 tags to allow search engines, screen readers, and other user devices to determine the signifance and context of web content.
+Web accessibility is essential to business success. A marketing agency wanted to improve their website to make it more friendly to people with disabilities. In addition, implementing accessibility in a page helps improve the clarity of the page so that search engines can read and process the information more efficiently. This increases the chances of the business website to better positioned in search engines such as Google. The purpose of this code is to provide a great example of how to refactor a code to replace non-semantic with semantic HTML5 tags to allow search engines, screen readers, and other user devices to determine the significance and context of web content.
 
 Semantic tags improves accessibility. In the old code, non-semantic tags such as <div> and <span> were widely used. These were replaced with semantic tags to allow the 
 
@@ -19,7 +19,6 @@ Semantic tags improves accessibility. In the old code, non-semantic tags such as
 9) Type "code ." and enter. The file should open on Visual Studio Code (needs to be installed). 
 
 
-
 ## Usage 
 
 Figure includes:
@@ -28,7 +27,6 @@ Figure includes:
 [ORM_picture](./assets/images/online-reputation-management.jpg)
 [SMM_picture](./assets/images/social-media-marketing.jpg.jpg)
 [ORM_picture](./assets/images/online-reputation-management.jpg)
-
 
 
 ## Credits
