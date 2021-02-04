@@ -6,35 +6,23 @@ Web accessibility is essential to business success. A marketing agency wanted to
 
 Semantic tags improves accessibility. In the old code, non-semantic tags such as <div> and <span> were widely used. These were replaced with semantic tags to allow the 
 
-## Installation
-1) Open the GitBash software.
-2) Type "mkdir code" and click enter to make a directory name "code".
-3) Type "cd code" and "Enter" to get into the directory "code".
-
-4) Without closing GitBash, visit go to https://github.com/aliciaqiu27?tab=repositories on the Google Chrome/Firefox browser.
-5) Go to the repository folder "01-code-refacto". Look at this figure: 
-6) Click on "Code" green button and copy the HTTPS link. See this figure for demo: [installation demo](./assets/images/Installation_PartI.PNG).
-7) On GitBash, type "git clone", "space", and paste the HTTPs URL. Click enter.
-8) Type "git pull" and enter. 
-9) Type "code ." and enter. The file should open on Visual Studio Code (needs to be installed). 
-
-
 ## Usage 
-
-Figure includes:
-[code refactor demo](./assets/images/search-engine-optimization.jpg)
-[SEO_picture](./assets/images/search-engine-optimization.jpg)
-[ORM_picture](./assets/images/online-reputation-management.jpg)
-[SMM_picture](./assets/images/social-media-marketing.jpg.jpg)
-[ORM_picture](./assets/images/online-reputation-management.jpg)
-
+1) Open the "index.html" file.
+2) You can navigate through the webpage!
 
 ## Credits
-
 https://www.bitdegree.org/learn/html5-semantic-tags
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
+## Contributions
+My github is: :octocat: https://github.com/aliciaqiu27
+
 ## License
+![license](https://img.shields.io/badge/License-MIT-brightgreen)
+
+MIT License
+
+Copyright (c) [2020] [Alicia Qiu Cheung]
 
 MIT License
 
